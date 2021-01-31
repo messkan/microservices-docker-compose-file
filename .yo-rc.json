@@ -1,0 +1,11 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["category-micro", "gateway", "product-micro", "uaa"],
+    "directoryPath": "../",
+    "gatewayType": "zuul",
+    "monitoring": "no",
+    "consoleOptions": [],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "NjlhMDhiMTVkMGY3MzQ3Zjg1NTZiMGU5ZjFlNzU3MGM3ZWQ1NGU3ZjRkNjA2OTE3ZjYxZDU0M2U3OWYyZjA0OWI0MjUwZTU4OWE1YjQxYzkwY2M4NGJiZDMzODM0MGJjNDFmYg=="
+  }
+}
